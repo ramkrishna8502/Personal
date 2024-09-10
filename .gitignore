@@ -1,0 +1,4 @@
+/target/
+/logs/
+target/classes/application.properties
+target/classes/ftp-key.ppk
